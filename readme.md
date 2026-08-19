@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Shoto</h1>
 <h3 align="left">A developer, explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=999shotoo&label=Profile%20views&color=0e75b6&style=flat" alt="999shotoo" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=999shotoo&label=Profile%20views&color=0e75b6&style=flat" alt="999shotoo" /> </p> -->
 
 - 🔭 I’m currently working on [Zenanime](https://zenanime.vercel.app/)
 
