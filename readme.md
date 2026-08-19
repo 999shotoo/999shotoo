@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Zenanime](https://zenanime.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://www.shoto.me/](https://www.shoto.me/)
+- 👨‍💻 All of my projects are available at [https://shotoo.tech/](https://shotoo.tech/)
 
 - 📫 How to reach me **shotodev999@gmail.com**
 
